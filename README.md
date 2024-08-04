@@ -6,7 +6,7 @@ This code snippet is designed to train a language model using a dataset of quest
 ```
 - Installs the `accelerate` library, which helps optimize model training, especially for multi-GPU setups.
 
-### 2. **Importing Libraries**
+### 2. **Importing Libraries** 
 ```python
 import json
 from datasets import Dataset
